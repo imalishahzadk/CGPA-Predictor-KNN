@@ -1,0 +1,129 @@
+S.NO,Study-hours,part_time_job,social_media_usage,Residence,chosen_field,Satisfied_with_educational_system_and_job_market,family_responsibilities,CGPA
+1,More than 4 hours ,No,Less than 2 hours,Hostelite,Strongly agree,Neutral,No,3.6
+2,More than 4 hours ,Yes,Less than 6 hours,Hostelite,Agree,Strongly agree,Yes ,3
+3,More than 4 hours ,No,Less than 2 hours,Hostelite,Agree,Neutral,Yes ,2.4
+4,More than 4 hours ,No,Less than 2 hours,Day-scholar,Strongly disagree,Strongly disagree,Yes ,3.2
+5,Less than 2 hours,No,Less than 3 hours,Day-scholar,Agree,Disagree,Yes ,2.9
+6,Less than 3 hours,No,Less than 2 hours,Day-scholar,Agree,Neutral,No,3.5
+7,Less than 3 hours,No,Less than 5 hours,Hostelite,Strongly agree,Neutral,No,3.37
+8,Less than 1 hour,No,Less than 2 hours,Day-scholar,Neutral,Neutral,Yes ,3.16
+9,Less than 2 hours,Yes,Less than 5 hours,Day-scholar,Strongly agree,Disagree,Yes ,3.82
+10,More than 4 hours ,No,Less than 3 hours,Day-scholar,Strongly agree,Strongly agree,Yes ,3.1
+11,Less than 1 hour,No,More than 6 hours,Day-scholar,Strongly agree,Neutral,No,2
+12,Less than 1 hour,Yes,Less than 2 hours,Day-scholar,Strongly agree,Disagree,Yes ,3.95
+13,less than 4 hours,No,Less than 3 hours,Day-scholar,Neutral,Neutral,Yes ,3.4
+14,Less than 1 hour,Yes,Less than 3 hours,Day-scholar,Strongly agree,Disagree,No,3.04
+15,Less than 2 hours,Yes,More than 6 hours,Day-scholar,Agree,Disagree,Yes ,3.43
+17,Less than 1 hour,No,More than 6 hours,Hostelite,Neutral,Agree,Yes ,2.4
+18,less than 4 hours,No,Less than 6 hours,Hostelite,Strongly agree,Disagree,No,3.9
+19,Less than 2 hours,No,Less than 5 hours,Day-scholar,Neutral,Neutral,No,3.5
+20,More than 4 hours ,Yes,Less than 3 hours,Day-scholar,Strongly agree,Strongly agree,No,3.5
+21,Less than 3 hours,No,Less than 4 hours,Day-scholar,Strongly agree,Neutral,No,3.3
+22,Less than 1 hour,No,Less than 3 hours,Day-scholar,Agree,Agree,Yes ,1.98
+23,Less than 2 hours,No,Less than 4 hours,Day-scholar,Neutral,Strongly disagree,No,3
+24,less than 4 hours,No,Less than 3 hours,Hostelite,Strongly agree,Agree,Yes ,3.2
+25,Less than 3 hours,Yes,Less than 3 hours,Hostelite,Agree,Agree,Yes ,3.4
+26,Less than 1 hour,No,Less than 3 hours,Day-scholar,Neutral,Disagree,No,2.8
+27,Less than 1 hour,No,Less than 5 hours,Hostelite,Strongly agree,Neutral,Yes ,2.8
+28,Less than 2 hours,No,Less than 2 hours,Day-scholar,Disagree,Disagree,No,3.5
+29,Less than 2 hours,No,Less than 4 hours,Hostelite,Neutral,Neutral,No,3.1
+30,Less than 3 hours,No,Less than 5 hours,Day-scholar,Strongly agree,Disagree,No,3.6
+31,Less than 1 hour,No,More than 6 hours,Day-scholar,Strongly disagree,Neutral,No,2.2
+32,Less than 1 hour,No,Less than 5 hours,Day-scholar,Strongly disagree,Strongly disagree,No,3.1
+33,Less than 3 hours,Yes,Less than 6 hours,Day-scholar,Agree,Strongly disagree,No,3.5
+34,Less than 1 hour,Yes,Less than 3 hours,Hostelite,Disagree,Disagree,No,3.6
+35,Less than 2 hours,No,Less than 4 hours,Day-scholar,Agree,Strongly agree,Yes ,3.4
+36,Less than 3 hours,No,Less than 6 hours,Day-scholar,Neutral,Neutral,No,3.5
+37,Less than 1 hour,No,More than 6 hours,Day-scholar,Strongly agree,Strongly agree,No,3
+38,less than 4 hours,No,Less than 6 hours,Day-scholar,Strongly agree,Strongly agree,Yes ,2.6
+39,Less than 1 hour,No,More than 6 hours,Day-scholar,Strongly disagree,Disagree,No,3.4
+40,Less than 2 hours,No,Less than 6 hours,Hostelite,Agree,Neutral,No,3.2
+41,Less than 1 hour,No,Less than 4 hours,Hostelite,Agree,Neutral,No,2
+42,More than 4 hours ,No,Less than 2 hours,Hostelite,Strongly agree,Strongly agree,No,3.99
+44,Less than 2 hours,Yes,Less than 5 hours,Hostelite,Strongly agree,Disagree,Yes ,3.3
+45,Less than 2 hours,No,Less than 4 hours,Hostelite,Strongly agree,Strongly agree,No,3.2
+46,Less than 2 hours,No,Less than 2 hours,Day-scholar,Neutral,Agree,Yes ,3.2
+47,less than 4 hours,No,Less than 2 hours,Day-scholar,Agree,Strongly disagree,No,4
+48,Less than 1 hour,No,Less than 4 hours,Day-scholar,Agree,Agree,No,3.2
+52,Less than 3 hours,No,Less than 6 hours,Hostelite,Strongly disagree,Disagree,No,2.7
+55,Less than 2 hours,Yes,Less than 6 hours,Hostelite,Disagree,Neutral,Yes ,3
+56,Less than 3 hours,No,Less than 5 hours,Hostelite,Agree,Disagree,Yes ,3.4
+59,More than 4 hours ,No,Less than 4 hours,Day-scholar,Neutral,Disagree,No,3.5
+60,less than 4 hours,No,Less than 5 hours,Hostelite,Strongly agree,Disagree,No,3.8
+61,less than 4 hours,No,Less than 4 hours,Hostelite,Agree,Strongly disagree,Yes ,2.9
+62,Less than 3 hours,No,Less than 3 hours,Hostelite,Agree,Strongly disagree,Yes ,2.1
+63,Less than 3 hours,No,Less than 3 hours,Hostelite,Neutral,Agree,Yes ,3
+64,Less than 2 hours,No,Less than 5 hours,Day-scholar,Neutral,Disagree,Yes ,3.6
+65,Less than 3 hours,No,More than 6 hours,Hostelite,Strongly agree,Neutral,Yes ,2.95
+66,Less than 3 hours,No,Less than 4 hours,Hostelite,Strongly agree,Neutral,No,3.1
+67,less than 4 hours,No,More than 6 hours,Hostelite,Strongly agree,Neutral,Yes ,2.95
+68,Less than 1 hour,No,Less than 4 hours,Day-scholar,Strongly agree,Strongly agree,No,3.3
+69,Less than 3 hours,No,Less than 6 hours,Hostelite,Agree,Agree,Yes ,3.5
+70,Less than 1 hour,Yes,Less than 3 hours,Day-scholar,Disagree,Disagree,No,3.2
+71,Less than 3 hours,No,Less than 6 hours,Day-scholar,Agree,Neutral,No,3.1
+72,less than 4 hours,No,Less than 4 hours,Hostelite,Neutral,Disagree,No,4
+73,Less than 1 hour,No,Less than 5 hours,Day-scholar,Neutral,Disagree,Yes ,3.9
+74,More than 4 hours ,No,Less than 5 hours,Day-scholar,Agree,Agree,No,3.3
+77,More than 4 hours ,No,Less than 3 hours,Hostelite,Neutral,Neutral,No,2.6
+78,More than 4 hours ,Yes,More than 6 hours,Hostelite,Neutral,Disagree,No,3.67
+79,Less than 1 hour,No,More than 6 hours,Day-scholar,Disagree,Neutral,Yes ,1
+80,Less than 1 hour,Yes,Less than 2 hours,Day-scholar,Strongly agree,Agree,No,3.6
+82,less than 4 hours,No,Less than 2 hours,Hostelite,Strongly agree,Strongly agree,Yes ,3.5
+83,Less than 2 hours,No,Less than 2 hours,Hostelite,Strongly agree,Disagree,Yes ,2.95
+84,Less than 3 hours,No,Less than 2 hours,Day-scholar,Agree,Neutral,No,3
+85,Less than 1 hour,No,More than 6 hours,Hostelite,Strongly disagree,Strongly disagree,No,4
+87,Less than 3 hours,No,Less than 2 hours,Day-scholar,Neutral,Neutral,No,3.1
+88,More than 4 hours ,No,More than 6 hours,Hostelite,Neutral,Agree,No,2.3
+89,less than 4 hours,No,Less than 3 hours,Day-scholar,Neutral,Disagree,Yes ,2
+90,Less than 3 hours,No,Less than 5 hours,Hostelite,Neutral,Strongly disagree,Yes ,3
+93,Less than 3 hours,Yes,Less than 4 hours,Day-scholar,Agree,Agree,No,2.6
+94,Less than 3 hours,No,Less than 2 hours,Day-scholar,Agree,Neutral,No,1
+96,Less than 1 hour,Yes,Less than 2 hours,Hostelite,Strongly agree,Disagree,No,3.5
+97,Less than 1 hour,No,Less than 2 hours,Day-scholar,Neutral,Neutral,Yes ,2.8
+98,Less than 2 hours,No,More than 6 hours,Hostelite,Agree,Disagree,Yes ,3.22
+99,Less than 3 hours,No,Less than 4 hours,Day-scholar,Agree,Neutral,No,3.3
+100,less than 4 hours,Yes,Less than 3 hours,Hostelite,Strongly agree,Neutral,Yes ,3.81
+101,less than 4 hours,No,Less than 3 hours,Day-scholar,Agree,Agree,Yes ,3.65
+102,less than 4 hours,No,Less than 4 hours,Day-scholar,Strongly agree,Agree,Yes ,3.1
+103,More than 4 hours ,Yes,Less than 2 hours,Hostelite,Disagree,Strongly disagree,Yes ,3.5
+104,Less than 1 hour,Yes,Less than 6 hours,Day-scholar,Neutral,Disagree,No,3
+105,More than 4 hours ,No,Less than 4 hours,Hostelite,Strongly agree,Agree,No,3.9
+106,Less than 1 hour,Yes,Less than 5 hours,Day-scholar,Neutral,Disagree,Yes ,3.5
+107,less than 4 hours,No,Less than 3 hours,Day-scholar,Strongly agree,Strongly agree,Yes ,3.48
+108,More than 4 hours ,Yes,Less than 6 hours,Day-scholar,Agree,Neutral,No,3.37
+109,Less than 3 hours,No,Less than 6 hours,Day-scholar,Agree,Agree,Yes ,3
+110,Less than 1 hour,No,Less than 2 hours,Day-scholar,Neutral,Neutral,Yes ,3
+111,More than 4 hours ,Yes,Less than 2 hours,Hostelite,Strongly agree,Agree,Yes ,3.69
+112,Less than 1 hour,No,Less than 4 hours,Day-scholar,Strongly agree,Neutral,No,3.5
+113,More than 4 hours ,No,Less than 4 hours,Day-scholar,Strongly agree,Agree,Yes ,3.54
+114,Less than 2 hours,No,More than 6 hours,Day-scholar,Disagree,Agree,No,3
+115,More than 4 hours ,Yes,More than 6 hours,Day-scholar,Neutral,Agree,No,3.4
+116,Less than 1 hour,No,More than 6 hours,Day-scholar,Agree,Disagree,No,3.95
+117,More than 4 hours ,No,Less than 3 hours,Day-scholar,Neutral,Disagree,No,3
+118,Less than 3 hours,Yes,Less than 3 hours,Day-scholar,Agree,Strongly agree,Yes ,3.5
+119,Less than 1 hour,Yes,Less than 5 hours,Day-scholar,Strongly agree,Disagree,No,2.9
+120,less than 4 hours,No,Less than 5 hours,Hostelite,Strongly agree,Strongly disagree,Yes ,3.2
+121,More than 4 hours ,Yes,Less than 2 hours,Day-scholar,Neutral,Agree,No,3.5
+122,Less than 1 hour,No,More than 6 hours,Day-scholar,Disagree,Disagree,No,3.3
+123,More than 4 hours ,Yes,Less than 2 hours,Day-scholar,Strongly agree,Strongly agree,Yes ,3.53
+124,Less than 2 hours,Yes,More than 6 hours,Day-scholar,Agree,Neutral,No,3.5
+125,More than 4 hours ,Yes,Less than 3 hours,Day-scholar,Strongly agree,Agree,No,3.72
+127,More than 4 hours ,No,Less than 4 hours,Hostelite,Strongly agree,Agree,Yes ,3.4
+128,Less than 2 hours,Yes,Less than 5 hours,Day-scholar,Strongly agree,Disagree,Yes ,3
+129,Less than 3 hours,No,Less than 2 hours,Day-scholar,Agree,Agree,Yes ,3
+130,More than 4 hours ,No,Less than 4 hours,Day-scholar,Agree,Strongly agree,No,3.52
+131,Less than 3 hours,Yes,Less than 3 hours,Day-scholar,Agree,Disagree,Yes ,3.7
+132,More than 4 hours ,No,Less than 2 hours,Day-scholar,Strongly agree,Agree,No,3.46
+133,Less than 2 hours,No,Less than 3 hours,Day-scholar,Agree,Agree,Yes ,3.62
+134,More than 4 hours ,Yes,Less than 2 hours,Hostelite,Strongly agree,Agree,Yes ,3.5
+136,Less than 1 hour,Yes,More than 6 hours,Day-scholar,Agree,Strongly disagree,Yes ,3.3
+137,Less than 1 hour,Yes,Less than 2 hours,Hostelite,Strongly agree,Neutral,No,3
+138,Less than 1 hour,No,Less than 6 hours,Day-scholar,Agree,Agree,No,3.5
+139,More than 4 hours ,No,Less than 3 hours,Day-scholar,Agree,Neutral,No,3.63
+140,Less than 3 hours,Yes,Less than 5 hours,Day-scholar,Agree,Agree,Yes ,2.8
+141,Less than 2 hours,No,Less than 3 hours,Day-scholar,Agree,Agree,No,3.8
+142,less than 4 hours,No,Less than 4 hours,Day-scholar,Strongly agree,Strongly disagree,Yes ,3.9
+143,Less than 3 hours,Yes,Less than 2 hours,Day-scholar,Neutral,Agree,Yes ,3.78
+144,Less than 1 hour,No,Less than 3 hours,Hostelite,Neutral,Disagree,Yes ,3
+145,Less than 2 hours,No,Less than 4 hours,Hostelite,Agree,Disagree,No,3.1
+146,Less than 3 hours,Yes,Less than 5 hours,Day-scholar,Agree,Neutral,No,3.4
